@@ -32,7 +32,7 @@ public class TV {
 		this.control = control;
 	}
 	
-	public int getpPrecio() {
+	public int getPrecio() {
 		return precio;
 	}
 	public void setPrecio(int precio) {
